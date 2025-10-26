@@ -1,0 +1,15 @@
+# Pinned versions that work together for ChatterBot 1.x
+chatterbot==1.0.8
+chatterbot-corpus==1.2.0
+SQLAlchemy==1.3.24
+pint==0.20.1
+spacy==2.3.7
+blis==0.7.9
+thinc==7.4.6
+pytz==2024.1
+python-dateutil==2.9.0.post0
+PyYAML==6.0.2
+nltk==3.8.1
+Django==3.2.25
+# If you hit install issues on Apple Silicon, add:
+# Cython==0.29.36
