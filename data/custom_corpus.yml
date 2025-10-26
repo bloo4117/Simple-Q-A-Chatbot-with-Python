@@ -1,0 +1,13 @@
+categories:
+- general
+conversations:
+- - Hello
+  - Hi there! How can I help you today?
+- - Good morning
+  - Good morning! How are you doing?
+- - Who made you?
+  - I was trained with ChatterBot for a class assignment.
+- - Do you like hats?
+  - I don't wear hats, but I like your style.
+- - Bye
+  - Goodbye! Talk soon.
